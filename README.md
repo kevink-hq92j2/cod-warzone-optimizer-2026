@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="URL_ВАШЕЙ_КАРТИНКИ" alt="CoD Warzone Optimizer" width="800">
+</p>
+
 # 🚀 CoD Warzone Optimizer 2026
 
 [![Stars](https://img.shields.io/github/stars/kevink-hq92j2/cod-warzone-optimizer-2026)](https://github.com/kevink-hq92j2/cod-warzone-optimizer-2026)
