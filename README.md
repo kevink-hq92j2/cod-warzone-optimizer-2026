@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="URL_ВАШЕЙ_КАРТИНКИ" alt="CoD Warzone Optimizer" width="800">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1962663/header.jpg?t=1715330884" alt="Call of Duty Warzone" width="100%">
 </p>
-
 # 🚀 CoD Warzone Optimizer 2026
 
 [![Stars](https://img.shields.io/github/stars/kevink-hq92j2/cod-warzone-optimizer-2026)](https://github.com/kevink-hq92j2/cod-warzone-optimizer-2026)
@@ -43,4 +42,4 @@ A: No. This tool only modifies Windows system settings and does not interact wit
 ## 📜 License
 MIT — Free to use.
 
-⭐ **Star this repository** if you find it useful!
+⭐️ **Star this repository** if you find it useful!
